@@ -229,6 +229,3 @@ This project demonstrates practical experience with:
 - Building interactive Power BI dashboards
 - Translating analytical results into clear business insights
 ```
-- Power BI файл — `powerbi/divvy_dashboard.pbix`
-
-Если названия другие, просто поменяй их в README.
