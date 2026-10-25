@@ -228,4 +228,3 @@ This project demonstrates practical experience with:
 - Developing KPIs
 - Building interactive Power BI dashboards
 - Translating analytical results into clear business insights
-```
