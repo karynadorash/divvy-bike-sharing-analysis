@@ -57,6 +57,7 @@ Main validation and cleaning steps included:
 | Records removed | ~92,000 |
 | Records removed (%) | ~2.7% |
 | Final number of columns | 21 |
+
 The final dataset contained **3.30 million validated trips**.
 Records with ride durations below **1 minute** or above **24 hours** were excluded from the analytical dataset.
 Missing station information was retained where the ride itself remained valid, as removing these records would unnecessarily reduce the available behavioural data.
